@@ -1,0 +1,9 @@
+﻿body {
+    background-color: red;
+}
+.banner {
+    height: 100px;
+    background-color: #4c1190;
+    border-bottom: 5px solid #55c157;
+    box-shadow: 5px 5px 5px;
+}
